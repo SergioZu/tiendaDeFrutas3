@@ -55,13 +55,18 @@ margin-top: 10px;
 }
 
 
-input{
+.divFinal{
     position: absolute;
     margin-left: 900px;
     margin-top: 600px;
 }
 
-
+#lateral{
+    position: absolute;
+    margin-left: 74%;
+    width: 25%;
+    height: 100%;
+}
 
 #final{
     width: 800px;
